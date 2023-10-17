@@ -1,0 +1,10 @@
+Prerequisites:
+- Visual Studio
+- SSMS
+- Azure Portal
+- Synapse
+- Storage
+
+Warmup
+- Serverless DB
+- Data Flow runtime
